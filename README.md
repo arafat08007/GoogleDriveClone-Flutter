@@ -8,7 +8,7 @@ Created by [Joan Louji](https://joanlouji.web.app/)
 
 ``` 
 
-git clone https://github.com/sjlouji/GoogleDriveClone-Flutter.git
+Clone the repo 
 flutter pub get
 flutter run 
 
@@ -20,9 +20,7 @@ flutter run
 <img src="Demo/GoogleDriveClone7.gif" height="300em" /> <br>
 <img src="Demo/GoogleDriveClone1.png" height="300em" /> <br>
 <img src="Demo/GoogleDriveClone2.png" height="300em" /> <br>
-<img src="Demo/GoogleDriveClone3.png" height="300em" /> <br>
-<img src="Demo/GoogleDriveClone4.png" height="300em" /> <br>
-<img src="Demo/GoogleDriveClone5.png" height="300em" /> <br>
+
 
 Thank you for your support. 
 
