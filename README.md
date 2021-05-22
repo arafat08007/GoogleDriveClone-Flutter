@@ -1,4 +1,4 @@
-# Flutter Whatsapp Clone. 
+# Flutter drive Clone. 
 
 Flutter Google Drive Clone. 
 This is a simple flutter application where I have cloned Google Drive UI.
